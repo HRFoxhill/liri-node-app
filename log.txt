@@ -126,3 +126,14 @@ BarackObama
 Tweet: Thu Mar 15 23:16:02 +0000 2018
 Tweet Text: Congrats to @LoyolaChicago and Sister Jean for a last-second upset - I had faith in my pick!
 -------
+------------------------------ begin ------------------------------
+Title: Taxi
+Year: 1998
+Imdb Rating: 7.0
+Rotten Tomatoes Rating: N/A
+Country: France
+Language: French, German, Korean, Portuguese
+Plot: To work off his tarnished driving record, a hip taxi driver must chauffeur a loser police inspector on the trail of German bank robbers.
+Actors: Samy Naceri, Frédéric Diefenthal, Marion Cotillard, Manuela Gourary
+------------------------------ end ------------------------------
+[object Object]

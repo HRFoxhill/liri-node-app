@@ -36,7 +36,7 @@ switch (liriCommand) {
 
     //If no command is entered, this is the default message to user
     default:
-      console.log("No valid argument has been provided, please enter one of the following commands: 'my-tweets', 'spotify-this-song', 'movie-this', 'do-what-it-says' followed by parameter.");
+      console.log("No valid argument, please enter one of the following commands: 'my-tweets', 'spotify-this-song', 'movie-this', 'do-what-it-says' followed by search input.");
     }
 }
 //========================================================================
